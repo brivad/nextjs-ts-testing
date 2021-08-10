@@ -1,6 +1,6 @@
 # nextjs-ts-testing
 
-next.js setup for testing
+next.js setup for testing (typescript)
 
 - general testing and run with jest
 
