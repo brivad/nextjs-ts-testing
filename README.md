@@ -11,3 +11,5 @@ next.js setup for testing (typescript)
 to bootstrap a new app, use this repo as create-next-app example:
 
 `npx create-next-app my-app --example https://github.com/brivad/nextjs-ts-testing`
+
+🏂
